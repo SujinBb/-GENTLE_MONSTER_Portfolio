@@ -3,7 +3,7 @@ var _self;
 
 function setup() {
   createCanvas(1350,700);
-  background(255);
+  background(0);
   button = createButton('GO')
   button.mousePressed(LinkClik);
   button.position(640,420);
