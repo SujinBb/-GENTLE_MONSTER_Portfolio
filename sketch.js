@@ -9,8 +9,8 @@ function setup() {
   button.position(640,420);
   button.size(50,40);
  button.style("font-family", "Impact");
-  button.style("background-color","#FFF");
- button.style("color","#000");
+  button.style("background-color","#000");
+ button.style("color","#FFF");
  button.style('font-size', '20px');
 }
 
@@ -22,7 +22,7 @@ function randomColor() {
 }
 
 function draw() { 
-  fill(255);
+  fill(0);
   textFont('Impact');
   textSize(130);
   textAlign(CENTER);
