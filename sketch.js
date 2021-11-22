@@ -27,7 +27,7 @@ function draw() {
   textSize(130);
   textAlign(CENTER);
   text('PORTFOLIO',645,395);
-  var d = random(100, 255);
+  var d = random(150, 255);
   var e = random(0, 255);
   var f = random(0, 225);
   fill(d,e,f);
