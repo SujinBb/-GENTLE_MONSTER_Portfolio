@@ -2,7 +2,7 @@ var button;
 var _self;
 
 function setup() {
-  createCanvas(1350,700);
+  createCanvas(1450,800);
   background(0);
   button = createButton('GO')
   button.mousePressed(LinkClik);
@@ -26,7 +26,7 @@ function draw() {
   textFont('Impact');
   textSize(130);
   textAlign(CENTER);
-  text('PORTFOLIO',645,395);
+  text('PORTFOLIO',745,495);
   var d = random(150, 255);
   var e = random(0, 255);
   var f = random(0, 225);
