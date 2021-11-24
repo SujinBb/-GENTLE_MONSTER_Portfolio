@@ -6,7 +6,7 @@ function setup() {
   background(0);
   button = createButton('GO')
   button.mousePressed(LinkClik);
-  button.position(640,420);
+  button.position(740,520);
   button.size(50,40);
  button.style("font-family", "Impact");
   button.style("background-color","#000");
