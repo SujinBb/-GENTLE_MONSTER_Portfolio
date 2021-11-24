@@ -36,5 +36,5 @@ function draw() {
 }
 
 function LinkClik(){
- window.open("po2.html", _self);
+ window.open("menu.html", _self);
 }
