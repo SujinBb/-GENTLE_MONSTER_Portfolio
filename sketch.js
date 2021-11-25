@@ -26,7 +26,6 @@ function draw() {
   textFont('Impact');
   textSize(130);
   textAlign(CENTER);
-  text('SUJIN'S',765,355);
   text('PORTFOLIO',745,495);
   var d = random(150, 255);
   var e = random(0, 255);
